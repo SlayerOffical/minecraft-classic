@@ -8,3 +8,6 @@ This is a working copy of the Minecraft Classic website version. If you want to 
 My biggest reason for even doing this was so that I can modify the textures and sounds of the classic version just for fun, but I'm sure others could have a good use for it. There are however some quirks to changing some assets for the game, so be sure to take a look at the ASSETS_NOTE.md for further information.
 
 NOTE: If you decide to use a different name/directory for the minecraft-classic files, be sure to update the style.css, index.html, browserconfig.xml, and site.webmanifest with the changes too.
+
+
+//Forked just forking this project
